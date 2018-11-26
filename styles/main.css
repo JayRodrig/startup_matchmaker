@@ -165,7 +165,7 @@
 .center-link {
     background-color: yellow;
     color: black;
-    padding: 13px 75px;
+    padding: 10px 75px;
     text-decoration: none;
     font-weight:700;
     text-transform:uppercase;
@@ -200,7 +200,7 @@
 
 .post-center-link {
     background-color:#C6C6C6;   
-    padding: 18px 82px;
+    padding: 10px 75px;
     box-shadow: 0 2px 0 gray;   
 }
 
@@ -245,4 +245,8 @@
 .subheader-ins {
     text-decoration:none;
     border-bottom:3px solid yellow;
+}
+
+.flex-link {
+    display:flex;
 }
