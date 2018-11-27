@@ -20,7 +20,6 @@
 
 .col {
     width: 8.3333%;
-    min-height: 100px;
 }
   
 .col-2 {
@@ -143,7 +142,6 @@
     padding-bottom:60px;
     padding-left:40px;
     padding-right:40px;
-    height:343px;
     box-shadow:0 0 5px rgba(0,0,0,.75)
 }
 
@@ -173,6 +171,7 @@
     box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
     font-family:'Oswald', sans-serif!important;
     font-size: 20px;
+    justify-content:center;
 }
 
 .post-center-article {
@@ -202,6 +201,7 @@
     background-color:#C6C6C6;   
     padding: 10px 70px;
     box-shadow: 0 2px 0 gray;   
+    justify-content:center;
 }
 
 .no-border {
